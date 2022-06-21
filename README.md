@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
+<h3 align="center">TECH STACK</h3>
 
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
+</p>
 <!--
 **staspace/staspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
